@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/0mtygsHzrZsDRlZI275YRVOSVYS/ZohJlTg2LKZmGaVWb9E88859dalRta1+5L1U7pRbUs6L9F5Pvqawdd1/w==",
+  "dgSpecHash": "U/YXLQGTmmbnP0QHBO7Z9Wt6UbddxPW+3LqCWzvO3BaXug4fNqFtvjQTjw0Q0/WmcLIdaSJOKuVAQAI7PhM+Kg==",
   "success": true,
-  "projectFilePath": "/home/juan/Documents/Proyectos/ServicioDeTransporte/ServicioTransporte.App/ServicioTransporte.App.Dominio/ServicioTransporte.App.Dominio.csproj",
+  "projectFilePath": "/home/juan/Documents/Proyectos/ServicioTransporte/ServicioTransporte.App/ServicioTransporte.App.Dominio/ServicioTransporte.App.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

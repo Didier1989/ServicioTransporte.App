@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/juan/Documents/Proyectos/ServicioDeTransporte/ServicioTransporte.App/ServicioTransporte.App.Persistencia/ServicioTransporte.App.Persistencia.csproj",
+      "projectUniqueName": "/home/juan/Documents/Proyectos/ServicioTransporte/ServicioTransporte.App/ServicioTransporte.App.Persistencia/ServicioTransporte.App.Persistencia.csproj",
       "projectName": "ServicioTransporte.App.Persistencia",
-      "projectPath": "/home/juan/Documents/Proyectos/ServicioDeTransporte/ServicioTransporte.App/ServicioTransporte.App.Persistencia/ServicioTransporte.App.Persistencia.csproj",
+      "projectPath": "/home/juan/Documents/Proyectos/ServicioTransporte/ServicioTransporte.App/ServicioTransporte.App.Persistencia/ServicioTransporte.App.Persistencia.csproj",
       "packagesPath": "/home/juan/.nuget/packages/",
-      "outputPath": "/home/juan/Documents/Proyectos/ServicioDeTransporte/ServicioTransporte.App/ServicioTransporte.App.Persistencia/obj/",
+      "outputPath": "/home/juan/Documents/Proyectos/ServicioTransporte/ServicioTransporte.App/ServicioTransporte.App.Persistencia/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/juan/.nuget/NuGet/NuGet.Config"
@@ -49,8 +49,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -59,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.108/RuntimeIdentifierGraph.json"
       }
     }
   }
